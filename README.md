@@ -1,3 +1,4 @@
-# A react application that searches cocktails with the cocktail database API
+## See it live here! 
+# https://tparks18.github.io/cocktail-search/
 
-![Christmas Cocktail Demo](/assets/images/cocktail-demo.gif)
+![App Demo](/assets/images/cocktail-demo.gif)
